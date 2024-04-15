@@ -11,6 +11,6 @@
   - Technical Skills: Hands-On Web Development Skills, Database Integration, Server-Side Programming
   - Soft Skills: Project Management, Real-World Application, Creativity and Innovation
 
-##### It was developed as part of academic projects in the Web Technology subject.
+##### It was developed as part of academic projects in the Web Technology subject. [For Presentation](https://github.com/dwija12903/foodies-a-shopping-cart-website/blob/main/ppt.pdf)
 
 
